@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "check-sol": "tsx 01-system-program/01-read-balance.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
